@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[LLNEW]]></title>
         <description><![CDATA[LLNEW]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/llnew/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Jul 2016 17:58:09 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 16 Jul 2016 18:14:16 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/llnew/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Interview exercise one]]></title>
+            <description><![CDATA[<article><h1>Interview exercise one</h1><p>The Entrepreneurs 229 Porter & Sail Interview by Language Labs on #SoundCloud</p></article>]]></description>
+            <link>https://thegrid.ai/llnew/interview-exercise-one/index.html</link>
+            <guid isPermaLink="false">ed12c44d-380f-4900-ada9-5e270046d14a</guid>
+            <pubDate>Sat, 16 Jul 2016 18:14:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Moncole most livable cities exercise]]></title>
             <description><![CDATA[<article><h1>Moncole most livable cities exercise</h1><p>The ups and downs of our annual global ranking covering the world's most liveable cities - who's in and who's out?</p></article>]]></description>
-            <link>undefinedmoncole-most-livable-cities-exercise/index.html</link>
+            <link>https://thegrid.ai/llnew/moncole-most-livable-cities-exercise/index.html</link>
             <guid isPermaLink="false">6794a299-0591-4806-99e9-bd2f8f1d55fa</guid>
             <pubDate>Sat, 16 Jul 2016 17:58:08 GMT</pubDate>
         </item>
